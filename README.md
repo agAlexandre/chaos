@@ -6,7 +6,7 @@ Git usado para silumar o CAOS!
 2 - Altere a linha 112 do INDEX.HTML com seu nome onde está escrito "ESTA É LINHA ONDE VOCÊ IRÁ COLOCAR SEU NOME E AO MESMO TEMPO TODOS IRÃO FAZER O MERGE NA MASTER GERANDO CONFLITOS"
 
 
-3 - Faça o merge com a branch prod
+3 - Faça o merge com a branch main
 
 
 4-  Faça o revert
